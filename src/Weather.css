@@ -1,0 +1,11 @@
+.Weather {
+    border: 1px solid black;
+}
+
+.Weather ul {
+    list-style: none;
+}
+
+.weatherStats {
+    font-size: 12px;
+}
